@@ -1,0 +1,35 @@
+
+.navbar{
+  background-color:   #ecf0f1;
+  color: white;
+}
+
+.quemsomos{
+  background-color:  #e59866;
+}
+
+.servicos{
+  background-color:  #ecf0f1;
+}
+
+.parceiros{
+  background-color:  #e59866;
+}
+
+.contatos{
+  background-color:  #ecf0f1;
+}
+
+.desenv{
+  background-color:  #17202a;
+  color: white;
+}
+
+.margin{
+  margin-top: 30px;
+}
+
+.marginp{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
